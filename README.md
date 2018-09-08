@@ -1,2 +1,2 @@
-# Android_Workshop
+# IntroToAndroid_Workshop
 The code for DeltaHacks Institute's Android workshop.
